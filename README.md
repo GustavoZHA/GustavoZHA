@@ -92,27 +92,4 @@
 ### :fire: My Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavozha&show_icons=true&locale=en&layout=compact" alt="gustavozha" /></p>
 
-
-
-
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavozha&show_icons=true&locale=en" alt="gustavozha" /></p>
-
-
-
-
-
-
-
----
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavozha&" alt="gustavozha" /></p>
-
 ### :fire: Projects Examples:
