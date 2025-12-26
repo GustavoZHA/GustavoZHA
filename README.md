@@ -81,7 +81,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="40" height="40"/>
   <img src="https://github.com/aliesbelik/awesome-jmeter/blob/main/assets/images/jmeter-logo.svg" title="Jmeter" **alt="Jmeter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="80" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
 
@@ -90,6 +90,6 @@
 ---
 
 ### :fire: My Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavozha&show_icons=true&locale=en" alt="gustavozha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavozha&" alt="gustavozha" /></p>
 
 ### :fire: Projects Examples:
