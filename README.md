@@ -99,4 +99,80 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavozha&show_icons=true&locale=en&layout=compact" alt="gustavozha" />
 </p>
 
-### :computer: Projects Examples:
+## :computer: Projects:
+
+### Project: orangehrmlive-cypress-cucumber
+**Tech Stack**: Cypress, JavaScript and Cucumber
+
+**Repository**: [GitHub Repository](https://github.com/GustavoZHA/cypress-cucumber-orangehrmlive)
+<details>
+  <summary>📌 Project Details </summary>
+
+A **Cypress + Cucumber** test automation setup for writing end-to-end tests using **Gherkin** feature files and running them with Cypress against a web application (in this case, likely **OrangeHRM** or similar).
+
+**Key Points:**
+- Uses **Cypress** for testing and **Cucumber** (via **cypress-cucumber-preprocessor**) to support writing tests in **Gherkin** syntax (`Given-When-Then`).
+- Includes configuration steps for:
+  - Installing **Cypress** and the **Cucumber** preprocessor.
+  - Setting up the `cypress.config.js` to use the **Cucumber** preprocessor.
+  - Placing `.feature` files and matching step definition files in the correct folders.
+
+**Repository Contains:**
+- **Cypress** config files
+- Basic project structure (Cypress and feature files)
+- Instructions to run and configure the testing framework
+
+**Tech Stack:**
+- **Cypress** (JavaScript E2E testing tool)
+- **Cucumber** for **BDD** (Gherkin feature files)
+- **Node.js** / **npm** for dependency management
+
+</details>
+
+
+### Project: selaski-cypress-cucumber - Spanish
+**Tech Stack**: Cypress, JavaScript and Cucumber
+
+**Repository**: [GitHub Repository](https://github.com/GustavoZHA/selaski-test)
+
+<details>
+  <summary>📌 Project Details</summary>
+
+A **Cypress** test automation project that uses **Cucumber** (BDD) together with **Page Object Model (POM)** to perform end-to-end tests. It’s designed to automate UI testing for the **“Selaski”** application (or similar) using feature files (Gherkin) and structured page objects.
+
+**Main Features:**
+- End-to-end testing with **Cypress** and **Cucumber** (Gherkin syntax).
+- **Page Object Model (POM)** for reusable UI abstraction (e.g., home page, login page, navigation).
+- Includes tests, screenshots, and video recordings for debugging failures.
+- Organized folders for test definitions, support code, and Cypress config.
+
+**Tech Stack:**
+- **JavaScript**
+- **Cypress** for E2E testing
+- **Cucumber** for **BDD** (feature files)
+
+</details>
+
+
+### Project: Mercadolibre
+**Tech Stack**: Selenium, Java
+
+**Repository**: [GitHub Repository](https://github.com/GustavoZHA/mercadolibre)
+
+<details>
+  <summary>📌 Project Details</summary>
+
+This is a **Java-Selenium** test automation project designed to perform end-to-end and behavior-driven tests (BDD). The project uses Cucumber in conjunction with a clean, scalable test structure to automate and validate MercadoLibre workflows. The tests are written using Gherkin feature files, and Java is used to implement reusable step definitions.
+
+**Main Features:**
+- **End-to-End and BDD Testing**: Uses Cucumber and Gherkin syntax to define tests in a natural language format.
+- **Readable Feature Files**: Business behavior is described in an easy-to-understand `Given-When-Then` format for clear test scenarios.
+- **Reusable Step Definitions**: Implemented in Java to ensure maintainable and efficient test automation.
+- **Organized Project Structure**: A clear separation between features, step definitions, and configuration for easy maintenance.
+- **Built with Gradle**: For seamless dependency management and test execution.
+
+**Tech Stack:**
+- **Java**
+- **Cucumber** for BDD (Gherkin feature files)
+- **Gradle** as the build tool
+</details>
