@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo Zacarias Huanca Alconz</h1>
-<h3 align="center">A passionate Automation Quality Engineer from Bolivia, specializing in designing and maintaining robust test automation frameworks for web, API, and database. Experienced in Selenium, Playwright, Cypress, Rest Assured, and CI/CD integration using Jenkins and GitLab.</h3>
+<h3 align="center">I’m an Experienced Quality Assurance Engineer with over 4 years of hands-on experience in manual and automated testing, dedicated to delivering reliable, high-quality software and exceptional user experiences. I thrive in fast-paced, collaborative environments, where teamwork and precision drive innovation and product excellence.
+
+My expertise includes designing comprehensive test strategies, developing robust automation frameworks, and executing rigorous testing processes to ensure functionality, usability, and performance.
+
+I’m excited to bring my technical expertise, analytical mindset, and passion for continuous improvement to organizations that value excellence, innovation, and teamwork in software development.
+</h3>
 
 <div id="header" align="center">
 
