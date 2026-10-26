@@ -52,12 +52,14 @@ Experienced **Quality Assurance Engineer** with over 4 years of experience desig
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
@@ -103,6 +105,23 @@ Enterprise-grade mobile testing architecture combining **Serenity BDD** and **Ap
 ---
 
 ### 🌐 2. Web Automation & BDD Frameworks
+
+#### 🔹 [IEPB Admin - Multi-Layer Test Automation Framework (Playwright + TypeScript)](https://github.com/GustavoZHA/iepb-admin-automation-testing)
+![Status](https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Playwright%20|%20TypeScript%20|%20SQL%20Server%20|%20Allure%20|%20Zod-purple?style=flat-square)
+
+Enterprise-grade multi-layer automated testing framework validating the **UI**, **REST API**, and **Database** layers of the IEPB Admin management platform.
+<details open>
+  <summary><b>📌 View Project Highlights</b></summary>
+
+- **Multi-Layer Validation**:
+  - **UI Layer (`tests/ui/`)**: End-to-end browser workflows using the **Page Object Model (POM)** in Playwright.
+  - **REST API Layer (`tests/api/`)**: Domain-specific typed API clients (`MembersClient`, `LookupsClient`) featuring dynamic catalog context and runtime schema verification using **Zod**.
+  - **Database Persistence (`tests/db/`)**: Direct SQL Server (`mssql`) queries asserting relational integrity, persistence, and automated test teardown routines.
+- **Reporting & Observability**: Interactive test insights via **Allure Report**, Playwright HTML reports, and structured application logging with **Winston**.
+- **AI Agent Skills (`.agents/skills/`)**: Integrated agentic testing skills providing direct entry points for test generation, hooks, and automated step execution.
+- **Repository**: [`iepb-admin-automation-testing`](https://github.com/GustavoZHA/iepb-admin-automation-testing)
+</details>
 
 #### 🔹 [Cypress + Cucumber BDD Suite (OrangeHRM Live)](https://github.com/GustavoZHA/cypress-cucumber-orangehrmlive)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
@@ -157,6 +176,13 @@ Hands-on repository covering automated testing techniques for AI systems, evalua
 - **Course & Practice**: [`testing-ai-course`](https://github.com/GustavoZHA/testing-ai-course)
 - **Generative AI Studies**: [`generative-ai-for-beginners`](https://github.com/GustavoZHA/generative-ai-for-beginners) *(Fork)*
 
+#### 🔹 [Autonomous Testing Skills & MCP Automation](https://github.com/GustavoZHA/cli-skills-iepb-register-test)
+![Status](https://img.shields.io/badge/Status-Active_Study-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-AI%20Agents%20|%20MCP%20|%20CLI%20Skills-lightgrey?style=flat-square)
+
+Implementation of autonomous testing skills and Model Context Protocol (MCP) integrations to orchestrate test data preparation, member registrations, and AI-assisted test step execution.
+- **Repositories**: [`cli-skills-iepb-register-test`](https://github.com/GustavoZHA/cli-skills-iepb-register-test) & [`mpc-iepb-register-test`](https://github.com/GustavoZHA/mpc-iepb-register-test)
+
 ---
 
 ### 🔌 4. API & Database Testing
@@ -168,6 +194,26 @@ Hands-on repository covering automated testing techniques for AI systems, evalua
 Automated verification of backend endpoints, response schemas, status codes, and database states.
 - **API Suite**: [`api-repo`](https://github.com/GustavoZHA/api-repo) - Contract & functional REST validations.
 - **Database Connection**: [`conexionMongoDB`](https://github.com/GustavoZHA/conexionMongoDB) - Database connection scripts and validation routines.
+
+---
+
+### 🏢 5. Full-Stack Systems & DevOps Architecture
+
+#### 🔹 [IEPB Admin - Enterprise Ecosystem & Docker Orchestrator](https://github.com/GustavoZHA/iepb-admin-bk-ft)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-.NET%2010%20|%20React%2019%20|%20SQL%20Server%20|%20Docker-blue?style=flat-square)
+
+Modular enterprise church administration ecosystem and automated deployment architecture unifying backend services, modern web client, and automated database provisioning.
+<details>
+  <summary><b>📌 View Project Highlights</b></summary>
+
+- **Full-Stack Architecture**:
+  - **Backend**: .NET 10 Web API managing membership lifecycles, ministerial assignments, and relational data in SQL Server.
+  - **Frontend**: React 19 client with Vite and Tailwind CSS v4 for reactive, clean administrative UI.
+  - **Orchestration**: Containerized multi-service Docker Compose workflow with hot-reloading for development and production modes.
+- **AL4GB Low-Resource Optimization**: Engineered an innovative dual architecture saving **80% RAM** (< 1 GB memory usage) by decoupling containerized web services from native Windows SQL Server Express, enabling smooth operation on 4 GB client hardware.
+- **Repository**: [`iepb-admin-bk-ft`](https://github.com/GustavoZHA/iepb-admin-bk-ft)
+</details>
 
 ---
 
